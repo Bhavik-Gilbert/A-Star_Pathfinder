@@ -10,5 +10,5 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/Bhavik-Gilbert/A-Star_Pathfinder)
 
 ## About
-A command line pathfinding application making use of the heuristic A* algorithm. Application places a 20 random obstacles in a 10 by 10 grid and outputs the shortest path from the start to end point. If no path is possible, reassessment of the route occurs and a path removing the least number of obstacles is given.
+A command line pathfinding application making use of the heuristic A* algorithm. The application places 20 random obstacles in a 10 by 10 grid and outputs the shortest path from the start to the endpoint. If no path is possible, reassessment of the route occurs and a path removing the least number of obstacles is given.
 
